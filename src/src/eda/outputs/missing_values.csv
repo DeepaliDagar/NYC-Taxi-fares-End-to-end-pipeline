@@ -1,0 +1,9 @@
+,0
+key,0
+fare_amount,0
+pickup_datetime,0
+pickup_longitude,0
+pickup_latitude,0
+dropoff_longitude,1
+dropoff_latitude,1
+passenger_count,0

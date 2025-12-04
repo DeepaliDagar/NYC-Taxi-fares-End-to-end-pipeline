@@ -5,10 +5,10 @@ import math
 from sklearn.model_selection import train_test_split
 
 BUCKET = "nyc-taxi-ml-ops"
-INPUT_KEY = "processed/train_200k.csv"
+INPUT_KEY = "data/processed/train_200k.csv"
 
-OUTPUT_TRAIN = "processed/train_final.csv"
-OUTPUT_TEST = "processed/test_final.csv"
+OUTPUT_TRAIN = "data/processed/train_final.csv"
+OUTPUT_TEST = "data/processed/test_final.csv"
 
 
 def haversine_distance(lat1, lon1, lat2, lon2):

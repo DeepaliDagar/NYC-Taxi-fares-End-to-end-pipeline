@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1764773807934
+current_stage: None
+description: null
+last_updated_timestamp: 1764773807934
+name: NYC_Taxi_Fare_RandomForestRegressor
+run_id: e7f420d340224c1e97df1e4381ccabdb
+run_link: null
+source: file:///home/sagemaker-user/mlops_project_uoc/models/mlruns/589096062182425823/e7f420d340224c1e97df1e4381ccabdb/artifacts/RandomForestRegressor_model
+status: READY
+status_message: null
+storage_location: file:///home/sagemaker-user/mlops_project_uoc/models/mlruns/589096062182425823/e7f420d340224c1e97df1e4381ccabdb/artifacts/RandomForestRegressor_model
+user_id: null
+version: 1

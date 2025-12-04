@@ -3,8 +3,8 @@ import pandas as pd
 import io
 
 BUCKET = "nyc-taxi-ml-ops"
-RAW_KEY = "raw/train.csv"
-OUTPUT_KEY = "processed/train_200k.csv"
+RAW_KEY = "data/raw/train.csv"
+OUTPUT_KEY = "data/processed/train_200k.csv"
 
 SAMPLE_SIZE = 200_000  # 200k rows
 

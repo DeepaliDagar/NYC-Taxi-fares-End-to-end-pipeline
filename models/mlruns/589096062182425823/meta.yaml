@@ -1,0 +1,6 @@
+artifact_location: file:///home/sagemaker-user/mlops_project_uoc/models/mlruns/589096062182425823
+creation_time: 1764751903851
+experiment_id: '589096062182425823'
+last_update_time: 1764751903851
+lifecycle_stage: active
+name: NYC-Taxi-Fare-Prediction-Multi-Model-Tuning

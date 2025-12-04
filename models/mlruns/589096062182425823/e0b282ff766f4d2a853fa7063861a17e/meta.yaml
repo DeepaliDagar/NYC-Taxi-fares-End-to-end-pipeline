@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sagemaker-user/mlops_project_uoc/models/mlruns/589096062182425823/e0b282ff766f4d2a853fa7063861a17e/artifacts
+end_time: 1764773929768
+entry_point_name: ''
+experiment_id: '589096062182425823'
+lifecycle_stage: active
+run_id: e0b282ff766f4d2a853fa7063861a17e
+run_name: GradientBoostingRegressor_FAST_Tuning
+run_uuid: e0b282ff766f4d2a853fa7063861a17e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764773807945
+status: 3
+tags: []
+user_id: sagemaker-user

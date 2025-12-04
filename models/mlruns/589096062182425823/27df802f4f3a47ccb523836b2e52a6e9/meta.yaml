@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sagemaker-user/mlops_project_uoc/models/mlruns/589096062182425823/27df802f4f3a47ccb523836b2e52a6e9/artifacts
+end_time: 1764753060118
+entry_point_name: ''
+experiment_id: '589096062182425823'
+lifecycle_stage: active
+run_id: 27df802f4f3a47ccb523836b2e52a6e9
+run_name: RandomForestRegressor_Tuning
+run_uuid: 27df802f4f3a47ccb523836b2e52a6e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764751904484
+status: 4
+tags: []
+user_id: sagemaker-user
